@@ -1,1 +1,3 @@
 # GInfoMC
+
+Helló, csütörtök!
